@@ -11,7 +11,7 @@ https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1782863390&st=7HT-pPcMjXCngc
 https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1782862967&st=13VZcTPNdV4rMIfj7kYx-A&sid=8ji9jkgk7oky&app=2ec376df-4b14-464a-981a-6c44d909a777&ce=2
 #EXTINF:-1 tvg-id="aPara.tr@HD" tvg-name="a Para" group-title="Borsa-Ekomini" tvg-logo="https://i.tmgrup.com.tr/apara/site/v1/i/logo-apara-new.png", a Para
 https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=l4U80tBy9iWSRiRBBj-wIw&e=1782863060
-#EXTINF:-1 tvg-id="aNews.tr@HD" tvg-logo="a News" group-title="Yabancı Haber" tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png", a Para
+#EXTINF:-1 tvg-id="aNews.tr@HD" tvg-logo="a News" group-title="Yabancı Haber" tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png", a News
 https://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8?st=dl16WDk2iaeTPweZjphDDA&e=1782863116
 #EXTINF:-1 tvg-id="MinikaGO.tr@HD" tvg-name="Minika GO" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minikago-logo-150x150.jpg", Minika GO
 https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1782862065&st=wnpS2kXcMBty2ubeLkyzFw&sid=8ji877060vqo&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
