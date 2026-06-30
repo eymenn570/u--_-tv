@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="a2.tr@HD" tvg-name="a2 TV" group-title="Komedi" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png", a2 HD
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782862903&st=xxvqJeNpxf4bYv_Oh4TH1g&sid=8ji9g3oeteby&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-id="aTVEuro.tr@SD" group-title="Avrupa-Ulusal" tvg-name="aTV Euro" tvg-logo="https://dengem.ch/wp-content/uploads/dengem-atv-de-konuk-600x375.png", aTV Euro
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2oGDvDvPdMHcCq4CTSXlFQ&e=1782803089
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=UJaBqQo_U7DqRMyTXOp8AQ&e=1782863556
 #EXTINF:-1 tvg-id="aTV.tr@HD" tvg-name="aTV" group-title="Ulusal" tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13362.png", aTV HD
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782803525&st=18wqcOhF_fBg-lZWdRN_5w&sid=8jft672pytii&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782863495&st=7RPj4ChW_3yVfgrFnyv_Qg&sid=8jiabuv7aas5&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:-1 tvg-id="aSpor.tr@HD" tvg-name="a Spor" group-title="Spor" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/a-spor-hd-buyuk.png", a Spor
-
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1782863390&st=7HT-pPcMjXCngcLGMvimpQ&sid=8jia68kpxe2i&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
 #EXTINF:-1 tvg-id="aHaber.tr@HD" tvg-name="a Haber" group-title="Haber" tvg-logo="https://st01.ahaber.com.tr/images/logo.png", a Haber
 https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1782862967&st=13VZcTPNdV4rMIfj7kYx-A&sid=8ji9jkgk7oky&app=2ec376df-4b14-464a-981a-6c44d909a777&ce=2
 #EXTINF:-1 tvg-id="aPara.tr@HD" tvg-name="a Para" group-title="Borsa-Ekomini" tvg-logo="https://i.tmgrup.com.tr/apara/site/v1/i/logo-apara-new.png", a Para
