@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MinikaGO.tr@HD" tvg-name="Minika GO" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minikago-logo-150x150.jpg", Minika GO
+https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1782862065&st=wnpS2kXcMBty2ubeLkyzFw&sid=8ji877060vqo&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
+#EXTINF:1- tvg-id="MinikaCocuk.tr@HD" tvg-name="Minika Çocuk" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minika-cocuk-300x217.webp", Minika Çocuk 
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1782862135&st=HoquSYittZZgv0hEbLvcHg&sid=8ji8b15iczxy&app=297aee61-13da-4585-b5a1-4f9c4c81f15a&ce=3
