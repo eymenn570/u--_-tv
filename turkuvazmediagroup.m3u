@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a2.tr@HD" tvg-name="a2 TV" group-title="Komedi" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png", a2 HD
-https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782729538&st=JYmd7lMjzQFCnEb0ptef-A&sid=8jcr65lwoiu9&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782862903&st=xxvqJeNpxf4bYv_Oh4TH1g&sid=8ji9g3oeteby&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-id="aTVEuro.tr@SD" group-title="Avrupa-Ulusal" tvg-name="aTV Euro" tvg-logo="https://dengem.ch/wp-content/uploads/dengem-atv-de-konuk-600x375.png", aTV Euro
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2oGDvDvPdMHcCq4CTSXlFQ&e=1782803089
 #EXTINF:-1 tvg-id="aTV.tr@HD" tvg-name="aTV" group-title="Ulusal" tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13362.png", aTV HD
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782803525&st=18wqcOhF_fBg-lZWdRN_5w&sid=8jft672pytii&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:-1 tvg-id="aSpor.tr@HD" tvg-name="a Spor" group-title="Spor" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/a-spor-hd-buyuk.png", a Spor
-https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1782804156&st=PgC9td4FXST0RRZjIPEV5w&sid=8jfu3ughr099&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
+
 #EXTINF:-1 tvg-id="aHaber.tr@HD" tvg-name="a Haber" group-title="Haber" tvg-logo="https://st01.ahaber.com.tr/images/logo.png", a Haber
-https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1782804425&st=79rMJvu-S3ftyIZFLXA49Q&sid=8jfui6becsdk&app=2ec376df-4b14-464a-981a-6c44d909a777&ce=2
+https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1782862967&st=13VZcTPNdV4rMIfj7kYx-A&sid=8ji9jkgk7oky&app=2ec376df-4b14-464a-981a-6c44d909a777&ce=2
 #EXTINF:-1 tvg-id="aPara.tr@HD" tvg-name="a Para" group-title="Borsa-Ekomini" tvg-logo="https://i.tmgrup.com.tr/apara/site/v1/i/logo-apara-new.png", a Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=Ckhe2XWUjuf-dcXTDxlWww&e=1782804681
+https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=l4U80tBy9iWSRiRBBj-wIw&e=1782863060
 #EXTINF:-1 tvg-id="aNews.tr@HD" tvg-logo="a News" group-title="Yabancı Haber" tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png", a Para
-https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8?st=u-XtgwC-1pxJvw_ofRZFvQ&e=1782808089
+https://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8?st=dl16WDk2iaeTPweZjphDDA&e=1782863116
 #EXTINF:-1 tvg-id="MinikaGO.tr@HD" tvg-name="Minika GO" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minikago-logo-150x150.jpg", Minika GO
 https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1782862065&st=wnpS2kXcMBty2ubeLkyzFw&sid=8ji877060vqo&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
 #EXTINF:1- tvg-id="MinikaCocuk.tr@HD" tvg-name="Minika Çocuk" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minika-cocuk-300x217.webp", Minika Çocuk 
